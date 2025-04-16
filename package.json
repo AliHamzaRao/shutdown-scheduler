@@ -42,8 +42,7 @@
     "publish": {
       "provider": "github",
       "owner": "AliHamzaRao",
-      "repo": "shutdown-scheduler",
-      "token": "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"
+      "repo": "shutdown-scheduler"
     }
   },
   "dependencies": {
